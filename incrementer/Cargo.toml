@@ -1,7 +1,7 @@
 [package]
 name = "incrementer"
 version = "0.1.0"
-authors = ["Aviraj Khare avirajkhare00@gmail.com"]
+authors = ["David david@block-alerts.xyz"]
 edition = "2021"
 
 [dependencies]
